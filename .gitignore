@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+.build/
+*.o
+*.a
+*.so
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Backups and logs
+*.bak
+*.bak2
+*.log
+
+# Archives
+SwiftRa1n.zip
+
+# OS files
+.DS_Store
+Thumbs.db
